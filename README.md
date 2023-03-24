@@ -20,3 +20,4 @@ Using {
   - OleVariant Array.
 }
 ```
+If necessary download third party components or change SynEdit for a TMemo.
